@@ -2,7 +2,7 @@
 
 
 
-github링크:https://github.com/adamnet/React-API-Test.git
+github링크:https://github.com/mikichoichanwoo/React-API-Test.git
 
 
 
