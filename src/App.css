@@ -1,0 +1,44 @@
+/* #root {
+margin:0;
+padding: 0;
+} */
+.App{
+  background: #fff;
+  color: #000;
+}
+
+.Dark {
+  background: hsl(209, 23%, 22%);
+  color: #fff;
+}
+ul .item {
+  width: 25%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+ul .item img{
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.detail-box{
+  display: flex;
+  justify-content: space-around;
+}
+
+.font-box {
+  font-weight: bolder ;
+}
